@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    supermarketapi (0.1.0)
+    supermarketapi (1.0.0)
       hashie
       httparty
 
@@ -42,4 +42,4 @@ DEPENDENCIES
   supermarketapi!
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
